@@ -1,0 +1,53 @@
+2024-06-15 18:20:37,251 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:37,267 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:37,684 INFO: /img -- Retry 0: failed to list files from FTP server
+2024-06-15 18:20:37,684 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:37,684 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:38,021 INFO: /img -- Retry 1: failed to list files from FTP server
+2024-06-15 18:20:38,021 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:38,021 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:38,122 INFO: /img -- Retry 2: failed to list files from FTP server
+2024-06-15 18:20:38,122 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:38,122 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:38,342 INFO: /img -- Retry 3: failed to list files from FTP server
+2024-06-15 18:20:38,342 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:38,342 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:38,546 INFO: /img -- Retry 4: failed to list files from FTP server
+2024-06-15 18:20:38,546 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:38,546 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:38,954 INFO: /img -- Retry 5: failed to list files from FTP server
+2024-06-15 18:20:38,954 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:38,954 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:39,338 INFO: /img -- Retry 6: failed to list files from FTP server
+2024-06-15 18:20:39,338 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:39,338 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:39,693 INFO: /img -- Retry 7: failed to list files from FTP server
+2024-06-15 18:20:39,693 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:39,693 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:40,133 INFO: /img -- Retry 8: failed to list files from FTP server
+2024-06-15 18:20:40,133 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:40,133 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:40,549 INFO: /img -- Retry 9: failed to list files from FTP server
+2024-06-15 18:20:40,549 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:40,549 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:40,830 INFO: /img -- Retry 10: failed to list files from FTP server
+2024-06-15 18:20:40,830 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:40,830 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:41,165 INFO: /img -- Retry 11: failed to list files from FTP server
+2024-06-15 18:20:41,165 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:41,165 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:41,532 INFO: /img -- Retry 12: failed to list files from FTP server
+2024-06-15 18:20:41,532 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:41,532 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:41,719 INFO: /img -- Retry 13: failed to list files from FTP server
+2024-06-15 18:20:41,719 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:41,719 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:42,157 INFO: /img -- Retry 14: failed to list files from FTP server
+2024-06-15 18:20:42,157 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:42,157 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:42,431 INFO: /img -- Retry 15: failed to list files from FTP server
+2024-06-15 18:20:42,431 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:42,431 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
+2024-06-15 18:20:42,857 INFO: /img -- Retry 16: failed to list files from FTP server
+2024-06-15 18:20:42,857 ERROR: /img -- failed to log in to FTP server
+2024-06-15 18:20:42,857 ERROR: /img -- 'NoneType' object has no attribute 'sendall'
